@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Farid Krida -1301194052
+# Nariswari Yoga - 1301194202
 
 
 # In[1]:
