@@ -1,5 +1,6 @@
-# Visdat-Tubes
-Final Project Visdat
+# Final Project-Visualisasi Data
+- Farid Krida -1301194052
+- Nariswari Yoga - 1301194202
 
 ## Cara Menjalankan Secara Local
 
@@ -7,8 +8,8 @@ run:
 
     pip install -r requirements.txt
 
-Then after the requirement is satisfied run :
+Setelah requirement satisfied, run :
 
     bokeh serve --port 5555 --show myapp.py
 
-or just run `serve.bat`
+
